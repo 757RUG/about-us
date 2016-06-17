@@ -91,8 +91,8 @@ left: 60%
 
 <div class="photobanner">
   <p>
-    <a href="http://www.clker.com/cliparts/4/f/1/6/11949845231298100123head3.svg.thumb.png"><img src='http://www.clker.com/cliparts/4/f/1/6/11949845231298100123head3.svg.thumb.png' alt='Man Head clip art'/></a>
-    <span>Twitter: @faketwitter</span>
+    <img src="./pictures/JayGendron.png">
+    <span>Twitter: @jaygendron</span>
     </br>
     <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span>
   </p>
