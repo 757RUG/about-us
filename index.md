@@ -94,7 +94,7 @@ left: 60%
     <img src="./pictures/JayGendron.png" height="100" width="100"><br>
     <span>Twitter: <a href="https://twitter.com/jaygendron">@jaygendron</a></span>
     </br>
-    <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span>
+    <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span><br>
     <span class="item2">Github: <a href="http://jgendron.github.io/">GH-Pages portfolio</a></span>
   </p>
 </div>
