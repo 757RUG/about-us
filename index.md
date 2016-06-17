@@ -79,3 +79,38 @@ left: 60%
 
 <b>Favorite Data Project:</b></br>
 <span style="word-wrap: break-word;">\- Predicting kidney stone prevalence in hatchery raised fish</span>
+
+Jay Gendron
+========================================
+left: 60%
+
+<div class="footer" style="margin-top:-125px; padding: 10px;">
+  Favorite Quote:<br>
+  <a href="http://cdn.shopify.com/s/files/1/1033/4649/products/speechted_1024x1024.jpg?v=1445665300">The Man in the Arena</a></br>- <i>Theodore Roosevelt</i>
+</div>
+
+<div class="photobanner">
+  <p>
+    <a href="http://www.clker.com/cliparts/4/f/1/6/11949845231298100123head3.svg.thumb.png"><img src='http://www.clker.com/cliparts/4/f/1/6/11949845231298100123head3.svg.thumb.png' alt='Man Head clip art'/></a>
+    <span>Twitter: @faketwitter</span>
+    </br>
+    <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span>
+  </p>
+</div>
+
+<b>Current Role:</b></br>
+\- Associate Data Scientist at Booz Allen Hamilton<br>
+  
+<b>Current Data Interest:</b></br>
+\- Working on Hadoop Streaming projects; text analytics<br>
+
+***
+
+<b>Favorite Snack:</b></br>
+\- Cheez-its
+
+<b>Hometown:</b></br>
+\- Springfield, MA USA<br>
+
+<b>Favorite Data Project:</b></br>
+<span style="word-wrap: break-word;">\- clustering</span>
