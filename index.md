@@ -51,7 +51,7 @@ left: 60%
 
 <div class="footer" style="margin-top:-100px; padding: 10px;">
   Favorite Quote:<br>
-  "To give anything less than your best, is to sacrifice the gift"</br>- <i>Steve Prefontaine</i>
+  "To give anything less than your best, is to sacrifice the gift"</br>- <i>Steve Prefontaine</i><br>
 </div>
 
 <div class="photobanner">
@@ -86,12 +86,12 @@ left: 60%
 
 <div class="footer" style="margin-top:-125px; padding: 10px;">
   Favorite Quote:<br>
-  <a href="http://cdn.shopify.com/s/files/1/1033/4649/products/speechted_1024x1024.jpg?v=1445665300">The Man in the Arena</a></br>- <i>Theodore Roosevelt</i>
+  <a href="http://cdn.shopify.com/s/files/1/1033/4649/products/speechted_1024x1024.jpg?v=1445665300">The Man in the Arena</a></br>- <i>Theodore Roosevelt</i><br>
 </div>
 
 <div class="photobanner">
   <p>
-    <img src="./pictures/JayGendron.png">
+    <img src="./pictures/JayGendron.png"><br>
     <span>Twitter: @jaygendron</span>
     </br>
     <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span>
