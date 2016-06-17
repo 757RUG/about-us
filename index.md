@@ -86,12 +86,12 @@ left: 60%
 
 <div class="footer" style="margin-top:-125px; padding: 10px;">
   Favorite Quote:<br>
-  <a href="http://cdn.shopify.com/s/files/1/1033/4649/products/speechted_1024x1024.jpg?v=1445665300">The Man in the Arena</a></br>- <i>Theodore Roosevelt</i><br>
+  <a href="https://github.com/757RUG/about-us/blob/gh-pages/pictures/the-man-in-the-arena.jpg">The Man in the Arena</a></br>- <i>Theodore Roosevelt</i><br>
 </div>
 
 <div class="photobanner">
   <p>
-    <img src="./pictures/JayGendron.png"><br>
+    <img src="./pictures/JayGendron.png" height="100" width="100"><br>
     <span>Twitter: @jaygendron</span>
     </br>
     <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span>
