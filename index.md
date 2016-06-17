@@ -56,7 +56,7 @@ left: 60%
 
 <div class="photobanner">
   <p>
-    <img src="./pictures/steve-mortimer.jpg">
+    <img src="./pictures/steve-mortimer.jpg"><br>
     <span>Twitter: @reportmort</span>
     </br>
     <span class="item2">Github: <a href="https://github.com/ReportMort">https://github.com/ReportMort</a></span>
@@ -92,9 +92,10 @@ left: 60%
 <div class="photobanner">
   <p>
     <img src="./pictures/JayGendron.png" height="100" width="100"><br>
-    <span>Twitter: @jaygendron</span>
+    <span>Twitter: <a href="https://twitter.com/jaygendron">@jaygendron</a></span>
     </br>
     <span class="item2">Github: <a href="https://github.com/jgendron">https://github.com/jgendron</a></span>
+    <span class="item2">Github: <a href="http://jgendron.github.io/">GH-Pages portfolio</a></span>
   </p>
 </div>
 
@@ -107,10 +108,10 @@ left: 60%
 ***
 
 <b>Favorite Snack:</b></br>
-\- Cheez-its
+\- Starbucks Coffee
 
 <b>Hometown:</b></br>
-\- Springfield, MA USA<br>
+\- Springfield, MA<br>
 
 <b>Favorite Data Project:</b></br>
 <span style="word-wrap: break-word;">\- clustering</span>
